@@ -1,0 +1,17 @@
+[{
+	"Pattern":"/",
+	"Scheme":"http",
+	"Host":"127.0.0.1:9900"
+	 
+	 
+},{
+	"Pattern":"/qm/",
+	"Scheme":"http",
+	"Host":"127.0.0.1:9961"
+},{
+	"Pattern":"/img/sign/",
+	"Scheme":"http",
+	"Host":"127.0.0.1:9961"
+}
+]
+ 
